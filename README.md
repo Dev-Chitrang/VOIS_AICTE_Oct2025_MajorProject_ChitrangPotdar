@@ -113,4 +113,5 @@ The dataset contains detailed information about movies and TV shows available on
 
 ### Images
 
-![Dashboard Screenshot](images\screencapture-localhost-8501-2025-10-07-20_52_42.png)
+![Dashboard Screenshot](images/screencapture-localhost-8501-2025-10-07-20_52_42.png)
+
