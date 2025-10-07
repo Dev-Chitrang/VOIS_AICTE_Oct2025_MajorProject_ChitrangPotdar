@@ -375,7 +375,7 @@ st.markdown("---")
 # -------------------------
 # Automated high-level insights
 # -------------------------
-st.header("🔎 Automated Strategic Insights (high-level)")
+st.header("🔎 Strategic Insights (high-level)")
 insights = []
 total = len(df_filtered)
 if total > 0:
